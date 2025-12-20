@@ -150,7 +150,7 @@ export default function HackathonLanding() {
           </nav>
 
           <div className="flex items-center gap-4">
-            <div className="block">
+            <div className="hidden sm:block">
               <a href="/">
                 <img 
                   src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/images-1766233752034.png?width=8000&height=8000&resize=contain" 

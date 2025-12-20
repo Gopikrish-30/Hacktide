@@ -150,7 +150,7 @@ export default function HackathonLanding() {
           </nav>
 
           <div className="flex items-center gap-4">
-            <div className="block">
+            <div className="hidden sm:block">
               <a href="/">
                 <img 
                   src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/images-1766233752034.png?width=8000&height=8000&resize=contain" 
@@ -230,11 +230,6 @@ export default function HackathonLanding() {
                   <Rocket className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
                 </span>
               </a>
-              
-              <div className="flex items-center gap-2 text-sm md:text-base font-medium text-white/80 bg-white/5 px-4 py-2 rounded-full border border-white/10 backdrop-blur-sm">
-                <Calendar className="w-4 h-4 text-[#10d900]" />
-                <span>Registration Closes: <span className="text-[#10d900] font-bold">December 26, 2025</span></span>
-              </div>
             </div>
           </motion.div>
 
