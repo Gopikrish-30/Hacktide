@@ -482,7 +482,7 @@ export default function HackathonLanding() {
               className="mt-16 text-center"
             >
                 <div className="inline-block px-8 py-4 rounded-full border border-[#10d900]/20 bg-[#10d900]/5 text-[#10d900] font-bold italic text-xl shadow-[0_0_30px_rgba(16,217,0,0.1)]">
-                  Participation certificates for all teams!
+                  Exclusive Electronic Gadgets for the 4th and 5th place teams and Participation certificates for all teams!
                 </div>
             </motion.div>
           </div>
