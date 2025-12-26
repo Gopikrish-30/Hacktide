@@ -545,7 +545,7 @@ export default function HackathonLanding() {
               {[
                 { q: "What is the team size?", a: "Each team must consist of 2–3 members. A total of 80 teams will be registered for the event." },
                 { q: "What is the registration fee?", a: "The registration fee is ₹708 per team." },
-
+                { q: "When is the registration period?", a: "Registration ends on 26.12.2025." },
                 { q: "What is the refund policy?", a: "There is a strict no-refund policy for this event." },
                 { q: "Where is the venue?", a: "The event is an offline hackathon conducted at Amrita Vishwa Vidyapeetham, Coimbatore Campus (Classroom)." },
                 { q: "What should we bring?", a: "Bring your own laptops, chargers, extension boxes, and any specific hardware your project might require for prototype development." },
